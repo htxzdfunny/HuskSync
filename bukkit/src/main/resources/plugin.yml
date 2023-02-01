@@ -2,6 +2,7 @@ name: HuskSync
 version: ${version}
 main: net.william278.husksync.BukkitHuskSync
 api-version: 1.16
+load: STARTUP
 author: William278
 description: 'A modern, cross-server player data synchronization system'
 website: 'https://william278.net'
